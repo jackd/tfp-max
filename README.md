@@ -1,6 +1,14 @@
-# python-pkg
+# tfp-max
 
-TODO: Update title.
+Package containing tensorflow probability implementation of distributions resulting from taking the max of other distributions.
+
+## Installation
+
+```bash
+# install tensorflow somehow
+git clone https://github.com/jackd/tfp-max
+pip install tfp-max
+```
 
 ## Pre-commit
 
