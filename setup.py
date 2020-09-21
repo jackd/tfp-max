@@ -13,7 +13,7 @@ with open(os.path.join(os.path.dirname(__file__), "requirements.txt")) as fp:
 setup(
     name="tfp-max",
     description="tensorflow-probability distributions and losses for max operations",
-    url="https://github.com/jackd",
+    url="https://github.com/jackd/tfp-max",
     author="Dominic Jack",
     author_email="thedomjack@gmail.com",
     license="Apache 2.0",
